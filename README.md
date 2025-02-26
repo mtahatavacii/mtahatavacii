@@ -1,16 +1,14 @@
-## Hi there 👋
+📌 **A long time ago, in a DevOps galaxy far, far away...**  
+A Jedi DevOps Engineer embarked on a journey to master **Kubernetes, Terraform, CI/CD, Monitoring, and more!** 🚀  
 
-<!--
-**mtahatavacii/mtahatavacii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Through DevOps, the dark side cannot cloud your vision. Through automation, greatness shall be achieved."* – Master Yoda  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ **Jedi Tech Stack**
+> *"Your focus determines your reality."* – Qui-Gon Jinn  
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Jedi-blue?style=for-the-badge&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-Sith-black?style=for-the-badge&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-Galactic-purple?style=for-the-badge&logo=terraform)
+
